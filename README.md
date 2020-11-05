@@ -1,12 +1,12 @@
-# Blog with Gatsby
+# Affiliation website with Gatsby
 
-_Fully customizable blog template with a React.js front-end._
+_Fully customizable affiliation template with a React.js front-end._
 
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-blog).
 
 ## What you have
 
-- A blazing fast blog with [Gatsby.js](https://gatsbyjs.org)
+- A blazing fast affiliation website with [Gatsby.js](https://gatsbyjs.org)
 - Structured content using [Sanity.io](https://www.sanity.io)
 - Global deployment on [Netlify](https://netlify.com)
 
